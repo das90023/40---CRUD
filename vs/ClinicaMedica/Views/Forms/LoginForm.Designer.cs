@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label3 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
             this.statusLabel = new System.Windows.Forms.Label();
@@ -38,10 +39,9 @@
             this.txtUsuario = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
-            this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
@@ -55,6 +55,17 @@
             this.panel1.Size = new System.Drawing.Size(434, 100);
             this.panel1.TabIndex = 0;
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackgroundImage = global::ClinicaMedica.Properties.Resources.icon;
+            this.pictureBox1.Image = global::ClinicaMedica.Properties.Resources.icon;
+            this.pictureBox1.Location = new System.Drawing.Point(30, 20);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(60, 60);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 1;
+            this.pictureBox1.TabStop = false;
+            // 
             // label3
             // 
             this.label3.AutoSize = true;
@@ -62,7 +73,7 @@
             this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(120, 40);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(205, 24);
+            this.label3.Size = new System.Drawing.Size(218, 24);
             this.label3.TabIndex = 0;
             this.label3.Text = "Clínica Médica - Login";
             // 
@@ -88,7 +99,7 @@
             this.statusLabel.ForeColor = System.Drawing.Color.Gray;
             this.statusLabel.Location = new System.Drawing.Point(20, 180);
             this.statusLabel.Name = "statusLabel";
-            this.statusLabel.Size = new System.Drawing.Size(34, 13);
+            this.statusLabel.Size = new System.Drawing.Size(29, 13);
             this.statusLabel.TabIndex = 6;
             this.statusLabel.Text = "Listo";
             // 
@@ -154,19 +165,9 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(55, 38);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(54, 15);
+            this.label1.Size = new System.Drawing.Size(53, 15);
             this.label1.TabIndex = 0;
             this.label1.Text = "Usuario:";
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::ClinicaMedica.Properties.Resources.icon;
-            this.pictureBox1.Location = new System.Drawing.Point(30, 20);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(60, 60);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 1;
-            this.pictureBox1.TabStop = false;
             // 
             // LoginForm
             // 
@@ -184,9 +185,9 @@
             this.Load += new System.EventHandler(this.LoginForm_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }

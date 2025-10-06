@@ -80,19 +80,75 @@ namespace ClinicaMedica.Views.Forms
 
         private void menuMedicos_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Aquí se abrirá el formulario de gestión de médicos", "Médicos",
-                MessageBoxButtons.OK, MessageBoxIcon.Information);
+            AbrirFormularioMedicos();
+        }
+
+        private void AbrirFormularioMedicos()
+        {
+            // Cerrar el panel de bienvenida si está visible
+            panelMain.Visible = false;
+
+            // Verificar si ya está abierto el formulario
+            foreach (Form form in this.MdiChildren)
+            {
+                if (form is MedicosForm)
+                {
+                    form.BringToFront();
+                    form.WindowState = FormWindowState.Maximized;
+                    return;
+                }
+            }
+
+            // Crear nuevo formulario
+            MedicosForm medicosForm = new MedicosForm();
+            medicosForm.MdiParent = this;
+            medicosForm.FormClosed += (s, args) => {
+                // Al cerrar el formulario, mostrar panel de bienvenida
+                panelMain.Visible = true;
+            };
+
+            medicosForm.WindowState = FormWindowState.Maximized;
+            medicosForm.Show();
+            medicosForm.BringToFront();
+        }
+
+        private void menuEspecialidades_Click(object sender, EventArgs e)
+        {
+            AbrirFormularioEspecialidades();
+        }
+
+        private void AbrirFormularioEspecialidades()
+        {
+            // Cerrar el panel de bienvenida si está visible
+            panelMain.Visible = false;
+
+            // Verificar si ya está abierto el formulario
+            foreach (Form form in this.MdiChildren)
+            {
+                if (form is EspecialidadesForm)
+                {
+                    form.BringToFront();
+                    form.WindowState = FormWindowState.Maximized;
+                    return;
+                }
+            }
+
+            // Crear nuevo formulario
+            EspecialidadesForm especialidadesForm = new EspecialidadesForm();
+            especialidadesForm.MdiParent = this;
+            especialidadesForm.FormClosed += (s, args) => {
+                // Al cerrar el formulario, mostrar panel de bienvenida
+                panelMain.Visible = true;
+            };
+
+            especialidadesForm.WindowState = FormWindowState.Maximized;
+            especialidadesForm.Show();
+            especialidadesForm.BringToFront();
         }
 
         private void menuCitas_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Aquí se abrirá el formulario de gestión de citas", "Citas",
-                MessageBoxButtons.OK, MessageBoxIcon.Information);
-        }
-
-        private void menuEspecialidades_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("Aquí se abrirá el formulario de gestión de especialidades", "Especialidades",
                 MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 

@@ -1,20 +1,37 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using ClinicaMedica.Views.Forms;
 using System.Windows.Forms;
+using System;
 
-namespace ClinicaMedica.Views.Forms
+private void menuCitas_Click(object sender, EventArgs e)
 {
-    public partial class CitasForm : Form
+    AbrirFormularioCitas();
+}
+
+private void AbrirFormularioCitas()
+{
+    // Cerrar el panel de bienvenida si está visible
+    panelMain.Visible = false;
+
+    // Verificar si ya está abierto el formulario
+    foreach (Form form in this.MdiChildren)
     {
-        public CitasForm()
+        if (form is CitasForm)
         {
-            InitializeComponent();
+            form.BringToFront();
+            form.WindowState = FormWindowState.Maximized;
+            return;
         }
     }
+
+    // Crear nuevo formulario
+    CitasForm citasForm = new CitasForm();
+    citasForm.MdiParent = this;
+    citasForm.FormClosed += (s, args) => {
+        // Al cerrar el formulario, mostrar panel de bienvenida
+        panelMain.Visible = true;
+    };
+
+    citasForm.WindowState = FormWindowState.Maximized;
+    citasForm.Show();
+    citasForm.BringToFront();
 }

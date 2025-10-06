@@ -3,44 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|c:\\users\\estudiante\\downloads\\vs\\vs\\clinicamedica\\views\\forms\\medicosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|solutionrelative:views\\forms\\medicosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|c:\\users\\estudiante\\downloads\\vs\\vs\\clinicamedica\\views\\forms\\citasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|solutionrelative:views\\forms\\citasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\models\\clases\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|solutionrelative:models\\clases\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\models\\clases\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|solutionrelative:models\\clases\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\views\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|solutionrelative:views\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\views\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|c:\\users\\estudiante\\downloads\\vs\\vs\\clinicamedica\\views\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|solutionrelative:views\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\views\\forms\\pacientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|solutionrelative:views\\forms\\pacientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|c:\\users\\estudiante\\downloads\\vs\\vs\\clinicamedica\\views\\forms\\especialidadesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|solutionrelative:views\\forms\\especialidadesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\views\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|solutionrelative:views\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|c:\\users\\estudiante\\downloads\\vs\\vs\\clinicamedica\\views\\forms\\especialidadesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|solutionrelative:views\\forms\\especialidadesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\views\\forms\\pacientesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|solutionrelative:views\\forms\\pacientesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\views\\forms\\pacientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|solutionrelative:views\\forms\\pacientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\models\\clases\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|solutionrelative:models\\clases\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|c:\\users\\estudiante\\downloads\\vs\\vs\\clinicamedica\\views\\forms\\citasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1187F72C-4549-49D6-8B44-0972D3B1E85C}|ClinicaMedica.csproj|solutionrelative:views\\forms\\citasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,126 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MedicosForm.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Views\\Forms\\MedicosForm.cs",
-              "RelativeDocumentMoniker": "Views\\Forms\\MedicosForm.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Views\\Forms\\MedicosForm.cs",
-              "RelativeToolTip": "Views\\Forms\\MedicosForm.cs",
-              "ViewState": "AgIAAHkBAAAAAAAAAAAqwJQBAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "EspecialidadesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Views\\Forms\\EspecialidadesForm.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\Forms\\EspecialidadesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Views\\Forms\\EspecialidadesForm.Designer.cs",
+              "RelativeToolTip": "Views\\Forms\\EspecialidadesForm.Designer.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAuwMEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:40:40.705Z",
+              "WhenOpened": "2025-10-06T15:22:01.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Especialidad.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Models\\Clases\\Especialidad.cs",
-              "RelativeDocumentMoniker": "Models\\Clases\\Especialidad.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Models\\Clases\\Especialidad.cs",
-              "RelativeToolTip": "Models\\Clases\\Especialidad.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:40:01.33Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Medico.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Models\\Clases\\Medico.cs",
-              "RelativeDocumentMoniker": "Models\\Clases\\Medico.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Models\\Clases\\Medico.cs",
-              "RelativeToolTip": "Models\\Clases\\Medico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Title": "EspecialidadesForm.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Views\\Forms\\EspecialidadesForm.cs",
+              "RelativeDocumentMoniker": "Views\\Forms\\EspecialidadesForm.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Views\\Forms\\EspecialidadesForm.cs",
+              "RelativeToolTip": "Views\\Forms\\EspecialidadesForm.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwGkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:39:48.913Z"
+              "WhenOpened": "2025-10-06T15:18:37.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Views\\Forms\\MainForm.Designer.cs",
-              "RelativeDocumentMoniker": "Views\\Forms\\MainForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Views\\Forms\\MainForm.Designer.cs",
-              "RelativeToolTip": "Views\\Forms\\MainForm.Designer.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAwBoAAABAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CitasForm.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Views\\Forms\\CitasForm.cs",
+              "RelativeDocumentMoniker": "Views\\Forms\\CitasForm.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Views\\Forms\\CitasForm.cs",
+              "RelativeToolTip": "Views\\Forms\\CitasForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwCQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:29:29.881Z"
+              "WhenOpened": "2025-10-06T15:18:34.476Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "CitasForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Views\\Forms\\CitasForm.cs",
+              "RelativeDocumentMoniker": "Views\\Forms\\CitasForm.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Views\\Forms\\CitasForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Views\\Forms\\CitasForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T15:18:32.771Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Views\\Forms\\MainForm.cs",
               "RelativeDocumentMoniker": "Views\\Forms\\MainForm.cs",
               "ToolTip": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Views\\Forms\\MainForm.cs",
               "RelativeToolTip": "Views\\Forms\\MainForm.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAgwE4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAIwLQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:25:52.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Views\\Forms\\MainForm.cs",
-              "RelativeDocumentMoniker": "Views\\Forms\\MainForm.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\vs\\ClinicaMedica\\Views\\Forms\\MainForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\vs\\ClinicaMedica\\Views\\Forms\\MainForm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:25:49.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PacientesForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Views\\Forms\\PacientesForm.Designer.cs",
-              "RelativeDocumentMoniker": "Views\\Forms\\PacientesForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Views\\Forms\\PacientesForm.Designer.cs",
-              "RelativeToolTip": "Views\\Forms\\PacientesForm.Designer.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAawBgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:25:32.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PacientesForm.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Views\\Forms\\PacientesForm.cs",
-              "RelativeDocumentMoniker": "Views\\Forms\\PacientesForm.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Views\\Forms\\PacientesForm.cs",
-              "RelativeToolTip": "Views\\Forms\\PacientesForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:24:13.792Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PacientesForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Views\\Forms\\PacientesForm.cs",
-              "RelativeDocumentMoniker": "Views\\Forms\\PacientesForm.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\vs\\ClinicaMedica\\Views\\Forms\\PacientesForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\vs\\ClinicaMedica\\Views\\Forms\\PacientesForm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:24:11.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Paciente.cs",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Models\\Clases\\Paciente.cs",
-              "RelativeDocumentMoniker": "Models\\Clases\\Paciente.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Downloads\\vs\\vs\\ClinicaMedica\\Models\\Clases\\Paciente.cs",
-              "RelativeToolTip": "Models\\Clases\\Paciente.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T19:23:32.006Z"
+              "WhenOpened": "2025-10-06T15:13:41.726Z",
+              "EditorCaption": ""
             }
           ]
         }
